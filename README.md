@@ -37,15 +37,15 @@ Important note: Point ( 0, 0 ) is at the top left of the window.
 Note: since you get visual feedback for this program, your test cases should be related to user input only.
 
 ##Extra Credit:
-If you have a fully working program, you may do the extra credit. Create a copy of your program in Lab6EC.py. 
+If you have a fully working program, you may do the extra credit. Create a copy of your program in Lab6Name1Name2EC.py. 
   EC 1: Modify the program so that it will make sure that the user enters integer coordinates; do not exit the program if the user does not enter integer coordinates; instead, keep asking the user for integer coordinates until the user does.
   EC 2: Delete the code checking that the x coordinate shopuld be greater than the y coordinate, and modify your loops so that the ball properly bounces around the window. Note: it is now possible that the ball hits the bottom edge of the window before the right edge.
 
 ##Submit:
 1. To GitHub and Moodle:
-  1. Your Python file (only 1 file, 2 files if you do the extra credit); be sure to include your two last names in the file name
-  2. Your algorithm (algorithm.txt)
-  3. Your test cases (testcases.txt)
+  a. Your Python file (only 1 file, 2 files if you do the extra credit); be sure to include your two last names in the file name
+  b. Your algorithm (algorithm.txt)
+  c. Your test cases (testcases.txt)
 2. In Hardcopy (print) in class:
-  1. Your python file (1 per pair)
-  2. Reflection (1 per partner): Discuss what you learned in lab, what it was like working with your partner, and what caused you the most trouble in lab. Also, what was different about using loops? What was different about using graphics?
+  a. Your python file (1 per pair)
+  b. Reflection (1 per partner): Discuss what you learned in lab, what it was like working with your partner, and what caused you the most trouble in lab. Also, what was different about using loops? What was different about using graphics?
