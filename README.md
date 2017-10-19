@@ -46,6 +46,6 @@ EC 2: Delete the code checking that the x coordinate shopuld be greater than the
   1. Your Python file (only 1 file, 2 files if you do the extra credit); be sure to include your two last names in the file name
   2. Your algorithm (algorithm.txt)
   3. Your test cases (testcases.txt)
-2. In Hardcopy in class:
+2. In Hardcopy (print) in class:
   1. Your python file (1 per pair)
   2. Reflection (1 per partner): Discuss what you learned in lab, what it was like working with your partner, and what caused you the most trouble in lab. Also, what was different about using loops? What was different about using graphics?
